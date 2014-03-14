@@ -23,7 +23,7 @@ FBird
 	if you lost, press K_SPACE to retry.
 
 ###Example:
-![example](https://github.com/rainsirly/FBird/blob/master/data/example.jpg)
+![example](https://github.com/rainsirly/FBird/blob/master/data/example.jpg?raw=true)
 
 ###Update plain:
 
