@@ -1,13 +1,31 @@
-################################################
+FBird
+=====
 
+###Intro:
 
-This is a python game writen by pygame, modle flappybird.
-if you want to play it on linux, use command "python FBird.py" after you install pygame and gameobjects.
-if you want to play it on windows, please wait for my later update. Or you can fork it and finished it by yourself.
+    This is a python game writen by pygame, modle flappybird.
 
+###How to use:
 
+	To play it on linux, use command 
+		python FBird.py 
+	after you install pygame and gameobjects.
+	install pygame:
+		sudo apt-get install python-pygame
+	install gameobjects:
+		sudo apt-get install python-setuptools
+		easy_install gameobjects
+	To play it on windows, please wait for my later update. 
+	Or you can fork it and finished it by yourself.
 
-UPDATE LOG:
+###How to play:
+	Use Keyboard. press K_UP to let the bird fly higher.
+	if you lost, press K_SPACE to retry.
 
-[1] add py2exe model for windows
-[2] ......
+###Example:
+	 ![image](https://github.com/rainsirly/FBird/data/example.jpg)
+
+###Update plain:
+
+	1. add py2exe model for windows player
+	2. ... ...
