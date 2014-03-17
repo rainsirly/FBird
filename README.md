@@ -25,7 +25,9 @@ FBird
 ###Example:
 ![example](https://github.com/rainsirly/FBird/blob/master/data/example.jpg?raw=true)
 
-###Update plain:
+###Update plan:
 
 	1. add py2exe model for windows player
-	2. ... ...
+	2. optimize usr interface
+	3. add bird animation
+	4. ... ...
